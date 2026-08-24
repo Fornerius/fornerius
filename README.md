@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [YOUR NAME]
+# 👋 Hi, I'm Jose
 
 Welcome to my GitHub profile.
 
